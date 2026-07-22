@@ -19,3 +19,5 @@ rich>=13.9.0
 # Robustness & Network Resilience
 tenacity>=9.0.0
 aiohttp>=3.11.0
+
+streamlit>=1.30.0
