@@ -1,0 +1,21 @@
+# Modern Google GenAI SDK (Fixes the ImportError)
+google-genai>=0.1.1
+
+# Tavily Search Engine Tool
+tavily-python>=0.5.0
+
+# Web Scraping & HTTP Pipeline
+beautifulsoup4>=4.12.3
+requests>=2.32.3
+lxml>=5.2.0
+
+# Environment Variable Utility
+python-dotenv>=1.0.1
+
+# Modern Data & String Formatting Support
+pydantic>=2.10.0
+rich>=13.9.0
+
+# Robustness & Network Resilience
+tenacity>=9.0.0
+aiohttp>=3.11.0
